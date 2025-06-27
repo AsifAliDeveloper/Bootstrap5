@@ -1,2 +1,3 @@
 # learning-JavaScript
-This is my first JS repositry 
+This is my first JS repositry.
+Author - Asif Ali
